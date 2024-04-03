@@ -4,7 +4,7 @@ module.exports = {
     plugins: ['@vuepress/pwa'],
     head: [
         ['link', { rel: 'icon', href: '/logo.png' }],
-        ['script', { src: "//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5832122675149165" }],
+        ['script', { src: "/js/index.js" }],
       ],
       themeConfig: {
         logo: '/logo.png',
