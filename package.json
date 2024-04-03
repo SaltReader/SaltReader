@@ -1,0 +1,16 @@
+{
+  "name": "SaltReader",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "None",
+  "author": "None",
+  "license": "MIT",
+  "devDependencies": {
+    "@vuepress/plugin-pwa": "^1.9.10",
+    "vuepress": "^1.9.10"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
